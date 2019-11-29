@@ -33,17 +33,6 @@
     "prettier": "^1.19.1",
     "sass": "^1.23.7"
   },
-  "lint-staged": {
-    "*.js": [
-      "npx eslint --fix --cache",
-      "git add"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npx lint-staged"
-    }
-  },
   "dependencies": {
     "assets": "^3.0.1",
     "components": "^0.1.0",
