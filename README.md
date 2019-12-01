@@ -2,6 +2,8 @@
 
 # Pomodoro
 
+![Screenshot app](/screenshot.png)
+
 This project has been realized with React
 
 ## About 
